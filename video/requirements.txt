@@ -1,0 +1,23 @@
+# Baseline: same as /data1/Visual-Memory-0122/Visual-Memory/video/requirements.txt
+accelerate>=0.33.0
+bitsandbytes>=0.43.1
+opencv-python-headless
+numpy
+pillow
+safetensors
+peft>=0.11.1
+transformers>=4.44.0,<5
+huggingface-hub
+sentencepiece
+ftfy
+diffusers>=0.30.0
+torch>=2.2.0
+pytorch-msssim
+lpips
+matplotlib
+
+# Compression_clean/video extras (scaling, edit, eval)
+dists-pytorch
+scipy
+torchvision
+regex

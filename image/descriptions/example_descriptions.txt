@@ -1,0 +1,3 @@
+# One line per image: relative_path_under_data_root|caption
+# Replace with your dataset paths before training.
+# sample.jpg|A short description of the image.
