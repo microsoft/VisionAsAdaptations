@@ -1,7 +1,7 @@
 # Qwen-Image multi-GPU UniLoRA train / reconstruct (see train_multi.sh, reconstruct_multi.sh)
 torch>=2.2.0
 torchvision
-diffusers>=0.32.0
+diffusers>=0.37.1
 transformers>=4.44.0
 accelerate>=0.33.0
 safetensors
