@@ -4,7 +4,7 @@ opencv-python-headless
 numpy
 pillow
 safetensors
-peft>=0.11.1
+peft>=0.19.1
 transformers>=4.44.0,<5
 huggingface-hub
 sentencepiece
