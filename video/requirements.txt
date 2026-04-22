@@ -1,5 +1,5 @@
 # Baseline: same as /data1/Visual-Memory-0122/Visual-Memory/video/requirements.txt
-accelerate>=0.33.0
+accelerate>=1.13.0
 bitsandbytes>=0.43.1
 opencv-python-headless
 numpy
