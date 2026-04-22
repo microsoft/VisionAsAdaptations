@@ -3,7 +3,7 @@ torch>=2.2.0
 torchvision
 diffusers>=0.32.0
 transformers>=4.44.0
-accelerate>=0.33.0
+accelerate>=1.13.0
 safetensors
 pillow
 numpy
