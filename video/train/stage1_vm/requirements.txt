@@ -9,7 +9,7 @@ transformers>=4.44.0,<5
 huggingface-hub
 sentencepiece
 ftfy
-diffusers>=0.30.0
+diffusers>=0.38.0
 torch>=2.2.0
 pytorch-msssim
 lpips
