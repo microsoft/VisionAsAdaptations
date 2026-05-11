@@ -1,6 +1,7 @@
 # Compression as Adaptation: Implicit Visual Representation with Diffusion Foundation Models
 
 <p align="center">
+  <img src="https://img.shields.io/badge/ICML-2026-blueviolet.svg" alt="ICML 2026">
   <a href="https://arxiv.org/abs/2603.07615"><img src="https://img.shields.io/badge/arXiv-2603.07615-b31b1b.svg" alt="arXiv"></a>
   <a href="https://compressionasadaptation.github.io/"><img src="https://img.shields.io/badge/Project-Website-blue" alt="Project Page"></a>
 </p>
@@ -152,7 +153,7 @@ If you find this work useful, please cite:
 ```bibtex
 @misc{he2026compressionadaptationimplicitvisual,
       title={Compression as Adaptation: Implicit Visual Representation with Diffusion Foundation Models},
-      author={Jiajun He and Zongyu Guo and Zhaoyang Jia and Xiaoyi Zhang and Jiahao Li and Xiao Li and Bin Li and José Miguel Hernández-Lobato and Yan Lu},
+      author={Jiajun He# and Zongyu Guo# and Zhaoyang Jia and Xiaoyi Zhang and Jiahao Li and Xiao Li and Bin Li and José Miguel Hernández-Lobato and Yan Lu},
       year={2026},
       eprint={2603.07615},
       archivePrefix={arXiv},

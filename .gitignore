@@ -416,3 +416,6 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# GitHub configs (managed locally, not pushed)
+.github/
